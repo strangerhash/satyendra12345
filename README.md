@@ -8,7 +8,7 @@ My name is Satyendra Pandey and I'm a software developer/DevOps engineer. I'm fr
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@pandeysatyendra870) and [GeekForGeeks](https://auth.geeksforgeeks.org/user/strangerhash/articles).
+Apart from coding, I also maintain a blog - you can find my articles on my website  on [Medium](https://medium.com/@pandeysatyendra870) and [GeekForGeeks](https://auth.geeksforgeeks.org/user/strangerhash/articles).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/php-PHP-green?style=flat&logo=php&logoColor=white&color=2bbc8a)
