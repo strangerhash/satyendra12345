@@ -15,8 +15,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/https://img.shields.io/badge/Node%20JS-Node%20Js-green?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 
 
@@ -25,8 +25,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/satyendra12345">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyendra12345&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/satyendra12345">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=satyendra12345&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Satyendra's's GitHub Stats" />
 </a>
 
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
@@ -55,14 +55,13 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[2]: https://github.com/satyendra12345
+[3]: https://www.linkedin.com/in/satyendra-pandey-a0314b167/
 
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
