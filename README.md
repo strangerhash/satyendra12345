@@ -75,36 +75,36 @@ Libraries -
 Language- .Net  
 
 
-#### Architecture 
-Mermaid Js
-Sql Modeling
-Project documentation 
-Godaddy management
+#### Architecture  
+Mermaid Js 
+Sql Modeling 
+Project documentation  
+Godaddy management 
 
-####Database 
-SQL 
-MSSQL 
-MongoDB
+####Database  
+SQL  
+MSSQL  
+MongoDB 
 
 
-#### DevOPS
-1.GitLab
-2.Jenkins for pipelining
-3.Docker
+#### DevOPS 
+1.GitLab 
+2.Jenkins for pipelining 
+3.Docker 
 
-#### OS
-Linux (Ubuntu 18.04)
-Windows
+#### OS 
+Linux (Ubuntu 18.04) 
+Windows 
 
-#### Networking
-routing and configurations
-Desktop setup 
-Ldap configurations
+#### Networking 
+routing and configurations 
+Desktop setup  
+Ldap configurations 
 
-#### CMS
-Wordpress
-Drupal
-Shopify
+#### CMS 
+Wordpress 
+Drupal 
+Shopify 
 
 
 
