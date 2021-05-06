@@ -56,8 +56,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [2]: https://github.com/satyendra12345
 [3]: https://www.linkedin.com/in/satyendra-pandey-a0314b167/
 
-####My Detailed Skills are mentioned here
-####Programming 
+#### My Detailed Skills are mentioned here
+#### Programming 
 
 Language - Node JS 
 Frameworks - Express Js ,Vue Js , Angular Js ,  React Js
@@ -75,7 +75,7 @@ Libraries -
 Language- .Net  
 
 
-####Architecture 
+#### Architecture 
 Mermaid Js
 Sql Modeling
 Project documentation 
@@ -87,21 +87,21 @@ MSSQL
 MongoDB
 
 
-####DevOPS
+#### DevOPS
 1.GitLab
 2.Jenkins for pipelining
 3.Docker
 
-####OS
+#### OS
 Linux (Ubuntu 18.04)
 Windows
 
-####Networking
+#### Networking
 routing and configurations
 Desktop setup 
 Ldap configurations
 
-####CMS
+#### CMS
 Wordpress
 Drupal
 Shopify
