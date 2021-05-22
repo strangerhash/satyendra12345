@@ -77,7 +77,15 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [3]: https://www.linkedin.com/in/satyendra-pandey-a0314b167/
 
 
+ <details>
+<summary>📊 Github Stats</summary>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satyendra12345&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+
+</details>
+
+
+ ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
