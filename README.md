@@ -80,7 +80,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satyendra12345&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satyendra12345&show_icons=true&theme=gotham" alt="Satyebdra Pandey| Stats" />
 
 </details>
 
