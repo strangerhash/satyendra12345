@@ -78,15 +78,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 
  <details>
-<summary>📊 Github Stats Refrence : Ayushi Ravat </summary>
+<summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satyendra12345&show_icons=true&theme=gotham" alt="Satyendra Pandey| Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
 
 </details>
-![Visitor Count](https://profile-counter.glitch.me/{satyendra12345}/count.svg)
 
-<summary>📊 Github Stats:DEV Community </summary>
-![counter](https://enw8o8vprglztkr.m.pipedream.net)
+
+ ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
 
 
 <!-- Resources -->
