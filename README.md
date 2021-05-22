@@ -85,7 +85,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </details>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{satyendra12345}/count.svg)
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
