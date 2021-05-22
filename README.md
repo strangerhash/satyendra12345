@@ -10,6 +10,9 @@ My name is Satyendra Pandey and I'm a software developer/DevOps engineer. I'm fr
 
 Apart from coding, I also maintain a blog - you can find my articles on my website  on [Medium](https://medium.com/@pandeysatyendra870) and [GeekForGeeks](https://auth.geeksforgeeks.org/user/strangerhash/articles).
 
+## Profile Views 
+![counter](https://enw8o8vprglztkr.m.pipedream.net)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/php-PHP-green?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
