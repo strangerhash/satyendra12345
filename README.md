@@ -80,12 +80,12 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satyendra12345&show_icons=true&theme=gotham" alt="Satyendra pandey | Stats" />
 
 </details>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{satyendra12345}/count.svg)
 
 
 <!-- Resources -->
