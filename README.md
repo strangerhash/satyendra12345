@@ -85,8 +85,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </details>
 ![Visitor Count](https://profile-counter.glitch.me/{satyendra12345}/count.svg)
 
-<summary>📊 Github Stats:DEV Community </summary>
-![counter](https://enw8o8vprglztkr.m.pipedream.net)
+
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
