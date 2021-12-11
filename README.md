@@ -42,14 +42,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/satyendra12345">
+<a href="https://github.com/strangerhash">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyendra12345&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/satyendra12345">
+<a href="https://github.com/strangerhash">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=satyendra12345&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Satyendra's's GitHub Stats" />
 </a>
 
-<a href="https://github.com/satyendra12345/strangechatroom">
+<a href="https://github.com/strangerhash/strangechatroom">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=satyendra12345&repo=strangechatroom&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
@@ -73,19 +73,19 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- links to your social media accounts -->
 
 
-[2]: https://github.com/satyendra12345
+[2]: https://github.com/strangerhash
 [3]: https://www.linkedin.com/in/satyendra-pandey-a0314b167/
 
 
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satyendra12345&show_icons=true&theme=gotham" alt="Satyendra pandey | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=strangerhash&show_icons=true&theme=gotham" alt="Satyendra pandey | Stats" />
 
 </details>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{satyendra12345}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{strangerhash}/count.svg)
 
 
 <!-- Resources -->
