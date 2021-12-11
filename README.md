@@ -43,15 +43,15 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/strangerhash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strangerhash&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strangerhash&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/strangerhash">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=strangerhash&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Satyendra's's GitHub Stats" />
 </a>
 
-<a href="https://github.com/strangerhash/strangechatroom">
+<!-- <a href="https://github.com/strangerhash/strangechatroom">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=strangerhash&repo=strangechatroom&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
 
 
    
